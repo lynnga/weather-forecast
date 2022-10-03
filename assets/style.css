@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(17, 0, 255) , rgb(202, 33, 117));
+    font-size: 60px;
+    color: white;
+}
+label{
+    font-size: 25px;
+    font-weight: 300;
+}
+.form-control{
+    width:30%;
+}
+.card {
+    display: table-cell;
+}
