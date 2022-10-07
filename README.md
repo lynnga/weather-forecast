@@ -11,6 +11,6 @@ What languages used: HTML, CSS and JaveScript and bootstrap.
 Deploy application link
 Git hub url = https://github.com/lynnga/weather-forecastwebsite 
 
-Deployed application:
+Deployed application:https://lynnga.github.io/weather-forecast/
 
 additonal information: Email me at lingamliel@gmail.com
